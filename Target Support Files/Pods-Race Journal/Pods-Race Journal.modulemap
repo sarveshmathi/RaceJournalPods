@@ -1,0 +1,6 @@
+framework module Pods_Race_Journal {
+  umbrella header "Pods-Race Journal-umbrella.h"
+
+  export *
+  module * { export * }
+}

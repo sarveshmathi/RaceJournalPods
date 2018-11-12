@@ -1,0 +1,16 @@
+PODS:
+  - SWSegmentedControl (2.6.1)
+
+DEPENDENCIES:
+  - SWSegmentedControl
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SWSegmentedControl
+
+SPEC CHECKSUMS:
+  SWSegmentedControl: 5770c91bb4b438be300371221e38f4af5100bba2
+
+PODFILE CHECKSUM: c99b999503e877d881661cdabc4fa7a57676f605
+
+COCOAPODS: 1.5.3
