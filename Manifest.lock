@@ -4,23 +4,27 @@ PODS:
   - Realm/Headers (3.11.1)
   - RealmSwift (3.11.1):
     - Realm (= 3.11.1)
+  - SwiftyPickerPopover (6.6.4)
   - SWSegmentedControl (2.6.1)
 
 DEPENDENCIES:
   - RealmSwift
+  - SwiftyPickerPopover
   - SWSegmentedControl
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Realm
     - RealmSwift
+    - SwiftyPickerPopover
     - SWSegmentedControl
 
 SPEC CHECKSUMS:
   Realm: 037c5919b9ceb59d6beed5d3b031096856b119b3
   RealmSwift: c9580133e73ef40ed340401af2dbc9a5790dfea7
+  SwiftyPickerPopover: 6d08cbae133c80743654f4e977607cd1553947e6
   SWSegmentedControl: 5770c91bb4b438be300371221e38f4af5100bba2
 
-PODFILE CHECKSUM: a9ae27e7b58718cc31f5a53d21117ddfec0dfadd
+PODFILE CHECKSUM: 2b9d5bfef1d0c9ce72ff5686c43a9da911f5d13c
 
 COCOAPODS: 1.5.3
