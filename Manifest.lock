@@ -6,13 +6,12 @@ PODS:
     - Charts (~> 3.2.1)
     - RealmSwift (~> 3.11.1)
   - EzPopup (1.0)
-  - Realm (3.11.1):
-    - Realm/Headers (= 3.11.1)
-  - Realm/Headers (3.11.1)
-  - RealmSwift (3.11.1):
-    - Realm (= 3.11.1)
+  - Realm (3.11.2):
+    - Realm/Headers (= 3.11.2)
+  - Realm/Headers (3.11.2)
+  - RealmSwift (3.11.2):
+    - Realm (= 3.11.2)
   - SwiftyPickerPopover (6.6.4)
-  - SWSegmentedControl (2.6.1)
 
 DEPENDENCIES:
   - Charts
@@ -20,7 +19,6 @@ DEPENDENCIES:
   - EzPopup
   - RealmSwift
   - SwiftyPickerPopover
-  - SWSegmentedControl
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -30,17 +28,15 @@ SPEC REPOS:
     - Realm
     - RealmSwift
     - SwiftyPickerPopover
-    - SWSegmentedControl
 
 SPEC CHECKSUMS:
   Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
   ChartsRealm: 8570ca829ee82715018e72a0935687de86e3b126
   EzPopup: 8ab951717736197e57b8f9973816fa2601cd59c5
-  Realm: 037c5919b9ceb59d6beed5d3b031096856b119b3
-  RealmSwift: c9580133e73ef40ed340401af2dbc9a5790dfea7
+  Realm: 864477d028db77f7c5a0cba64a4892ad53db128a
+  RealmSwift: 12b8262fc08020b47de4fd88eb3d5c9425b34ec7
   SwiftyPickerPopover: 6d08cbae133c80743654f4e977607cd1553947e6
-  SWSegmentedControl: 5770c91bb4b438be300371221e38f4af5100bba2
 
-PODFILE CHECKSUM: a1f43e091af5d7dbeca447f15226f48b3240af6f
+PODFILE CHECKSUM: 8bf2abddb1b83d84366d3f7300daf2ba0fc43ff8
 
 COCOAPODS: 1.5.3
