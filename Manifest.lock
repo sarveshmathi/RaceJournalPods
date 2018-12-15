@@ -6,8 +6,6 @@ PODS:
     - Charts (~> 3.2.1)
     - RealmSwift (~> 3.11.1)
   - EzPopup (1.0)
-  - IceCream (1.7.2):
-    - RealmSwift
   - JGProgressHUD (2.0.3)
   - Realm (3.11.2):
     - Realm/Headers (= 3.11.2)
@@ -20,7 +18,6 @@ DEPENDENCIES:
   - Charts
   - ChartsRealm
   - EzPopup
-  - IceCream
   - JGProgressHUD
   - RealmSwift
   - SwiftyPickerPopover
@@ -30,7 +27,6 @@ SPEC REPOS:
     - Charts
     - ChartsRealm
     - EzPopup
-    - IceCream
     - JGProgressHUD
     - Realm
     - RealmSwift
@@ -40,12 +36,11 @@ SPEC CHECKSUMS:
   Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
   ChartsRealm: 8570ca829ee82715018e72a0935687de86e3b126
   EzPopup: 8ab951717736197e57b8f9973816fa2601cd59c5
-  IceCream: 6123496d105c23189dc980d0ebab865095e6a9f2
   JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
   Realm: 864477d028db77f7c5a0cba64a4892ad53db128a
   RealmSwift: 12b8262fc08020b47de4fd88eb3d5c9425b34ec7
   SwiftyPickerPopover: 6d08cbae133c80743654f4e977607cd1553947e6
 
-PODFILE CHECKSUM: 7c9074b2f4d1de752fa4524920e6509eaba08688
+PODFILE CHECKSUM: 1d87496bdd39480c3e69726a0e5e91aaec712495
 
 COCOAPODS: 1.5.3
