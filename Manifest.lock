@@ -5,42 +5,54 @@ PODS:
   - ChartsRealm (3.2.1):
     - Charts (~> 3.2.1)
     - RealmSwift (~> 3.11.1)
+  - DGElasticPullToRefresh (1.1)
   - EzPopup (1.0)
   - JGProgressHUD (2.0.3)
+  - KeychainAccess (3.1.2)
   - Realm (3.11.2):
     - Realm/Headers (= 3.11.2)
   - Realm/Headers (3.11.2)
   - RealmSwift (3.11.2):
     - Realm (= 3.11.2)
+  - SwiftLint (0.29.1)
   - SwiftyPickerPopover (6.6.4)
 
 DEPENDENCIES:
   - Charts
   - ChartsRealm
+  - DGElasticPullToRefresh
   - EzPopup
   - JGProgressHUD
+  - KeychainAccess
   - RealmSwift
+  - SwiftLint
   - SwiftyPickerPopover
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Charts
     - ChartsRealm
+    - DGElasticPullToRefresh
     - EzPopup
     - JGProgressHUD
+    - KeychainAccess
     - Realm
     - RealmSwift
+    - SwiftLint
     - SwiftyPickerPopover
 
 SPEC CHECKSUMS:
   Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
   ChartsRealm: 8570ca829ee82715018e72a0935687de86e3b126
+  DGElasticPullToRefresh: 28f11a6026302a90f8ffebbc6e24748e584dddd3
   EzPopup: 8ab951717736197e57b8f9973816fa2601cd59c5
   JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
   Realm: 864477d028db77f7c5a0cba64a4892ad53db128a
   RealmSwift: 12b8262fc08020b47de4fd88eb3d5c9425b34ec7
+  SwiftLint: 6772320e40b52049053a518c17db9b0634a0b45a
   SwiftyPickerPopover: 6d08cbae133c80743654f4e977607cd1553947e6
 
-PODFILE CHECKSUM: 1d87496bdd39480c3e69726a0e5e91aaec712495
+PODFILE CHECKSUM: 16d65e1e62faf0754418acec1a731e6e03b6f503
 
 COCOAPODS: 1.5.3
